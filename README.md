@@ -1,4 +1,4 @@
-### Olá, boas-vinda ao meu perfil!! (=`ω´=) 
+### Olá, boas-vindas ao meu perfil!! (=`ω´=) 
 
 - Estou estudando na [Alura](https://www.alura.com.br);
 - Novo nesse mundo e programação;
